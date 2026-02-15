@@ -140,3 +140,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+/Library/
+/Temp/
+/Obj/
+/Build/
+/ProjectSettings/UnityConnectSettings.asset
