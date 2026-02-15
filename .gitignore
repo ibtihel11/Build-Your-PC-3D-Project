@@ -97,3 +97,46 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Blender autosave & backup files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# Blender autosave folder
+autosave/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Render output
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.tga
+*.bmp
+*.avi
+*.mp4
+renders/
+
+# Cache folders
+cache/
+__pycache__/
+*.pyc
+
+# Simulation caches
+*.bphys
+*.vdb
+*.abc
+*.mdd
+*.pc2
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
